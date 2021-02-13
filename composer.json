@@ -1,0 +1,14 @@
+{
+    "name": "janmikes/rectorbot-dog-food",
+    "type": "project",
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Jan Mikeš",
+            "email": "j.mikes@me.com"
+        }
+    ],
+    "require": {}
+}
