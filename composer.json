@@ -10,5 +10,10 @@
             "email": "j.mikes@me.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PHPMateDogFood\\": "src"
+        }
+    }
 }
