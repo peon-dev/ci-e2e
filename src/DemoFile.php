@@ -6,9 +6,9 @@ final class DemoFile
 {
     public function run()
     {
-        return 5;
+        return 1;
 
         // we never get here
-        return 10;
+        return 2;
     }
 }
