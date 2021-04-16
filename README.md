@@ -1,2 +1,1 @@
-# rectorbot-dog-food
-
+# PHPMate dog food - Rector
